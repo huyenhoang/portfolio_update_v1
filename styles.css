@@ -214,7 +214,7 @@ a.social:hover {
 .location {
     transform: scale(.6);
 }
-   .tag location {
+   .tag .location {
         vertical-align: middle;
     }
 
@@ -232,15 +232,14 @@ a.social:hover {
   }
         
 .Teacher {
-    background: white
-         margin: 30px;
-  padding: 20px 40px 40px;
-  max-width: 800px;
-  text-align: left;
-  background: 	#FFEFD5;
-  border-bottom: 4px solid #ccc;
-  border-radius: 6px;
-  transition: all .5s;
+     margin: 30px;
+      padding: 20px 40px 40px;
+      max-width: 800px;
+      text-align: left;
+      background: #FFEFD5;
+     border-bottom: 4px solid #ccc;
+      border-radius: 6px;
+     transition: all .5s;
         
 }
 .curve {

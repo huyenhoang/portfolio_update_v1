@@ -1,0 +1,78 @@
+/* Styles.css */
+
+html, body {
+    height: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+ul {
+text-align: center;
+}
+
+li {
+display: inline-block;
+}
+
+p {
+    font-family: Roboto, sans-serif;
+}
+
+.github-link {
+    text-align: center;
+}
+
+/* header */
+#logo {
+    float:left;
+}
+#profile{
+    float:right;
+    clear: right;
+    text-align: center;
+}
+
+.btn-success{
+    background-color: #02b3e4;
+    border-color: #02b3e4;
+}
+/* nav */
+
+
+/* cover */
+
+#cover {
+    background: #222 url('../img/huyen-hoang-full-stack-developer.jpg') center center no-repeat;
+    background-size: cover;
+    height: 40%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#cover-caption {
+    width: 100%;
+}
+.display-3 {
+    color: white;
+}
+.form-inline {
+    align-content: center;
+}
+
+/* featured work */
+
+
+/* footer */
+
+footer {
+    margin-top: 20px;  
+}
+#social-media-icons{
+    margin: auto;
+}
+#social-media-icons li{
+    list-style-type: none;
+    margin: 10px;
+}
